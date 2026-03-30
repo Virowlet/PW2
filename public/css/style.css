@@ -1,0 +1,32 @@
+#cabeca{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin: 0px;
+    font-size: 20px;
+    border-bottom: solid 2px #000;
+    background-color: aliceblue;
+}
+a{
+    text-decoration:none;
+    color: black;
+    animation: ease 1.5;
+}
+a:hover{
+    color: blue;
+}
+body{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    color: #000;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+div{
+    margin-top: 150px;
+    margin-left: 145px;
+    margin-right: 145px;
+    background-color: rgb(198, 228, 228);
+}
